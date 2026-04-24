@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Juan Camilo Yepes Albarracín 👋</h1>
 
 <p align="center">
-  <b>Systems Engineering graduate</b> • <b>Embedded Systems</b> • <b>IoT</b> • <b>Automation</b> • <b>Docker</b> • <b>Grafana</b>
+  <b>Systems Engineering, graduating May 2026</b> • <b>Embedded Systems</b> • <b>IoT</b> • <b>Automation</b> • <b>Docker</b> • <b>Grafana</b>
 </p>
 
 <p align="center">
