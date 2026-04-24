@@ -20,7 +20,7 @@
 
 ## About Me
 
-I am a Systems Engineering graduate based in **North Vancouver, BC, Canada**, with hands-on experience in embedded systems, IoT, workflow automation, and infrastructure tools.
+I am a Systems Engineering,  graduating May 2026 based in **North Vancouver, BC, Canada**, with hands-on experience in embedded systems, IoT, workflow automation, and infrastructure tools.
 
 I enjoy building practical systems that connect hardware, software, and data. My work includes ESP32 projects, sensor and LED networks, Dockerized services, n8n automation flows, Grafana dashboards, and document processing with Docling.
 
